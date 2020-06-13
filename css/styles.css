@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #b1ddf1;
+}
+
+.nav-bar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #2274a5;
+  text-align: center;
+}
+
+.nav-bar a {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  font-size: 1.5em;
+  padding: 0.625em 1.5em;
+}
